@@ -1,1 +1,16 @@
-#blocHaut
+#blocHaut{
+	background-color: blue;
+	height: 100px;
+	width: 100%;
+}
+#blocCentral{
+
+	background-color: red;
+	height: 400px;
+	width: 100%;
+}
+#blocBas{
+	background-color: green;
+	height: 100px;
+	width: 100%;
+}
